@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\bin\Debug\MicroProjectvb.exe.config
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\bin\Debug\MicroProjectvb.exe
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\bin\Debug\MicroProjectvb.pdb
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\bin\Debug\MicroProjectvb.xml
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\obj\Debug\MicroProjectvb.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\obj\Debug\MicroProjectvb.Form1.resources
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\obj\Debug\MicroProjectvb.Resources.resources
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\obj\Debug\MicroProjectvb.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\obj\Debug\MicroProjectvb.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\obj\Debug\MicroProjectvb.exe
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\obj\Debug\MicroProjectvb.xml
+C:\Users\Admin\source\repos\MicroProjectvb\MicroProjectvb\obj\Debug\MicroProjectvb.pdb
